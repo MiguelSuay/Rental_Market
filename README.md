@@ -22,7 +22,7 @@ Properties: **Languages** and programs used:
 + Some basic stuff to make it visually appealling
 + META SEARCH. Call other search engines, get their results, storage them and provide a combined answer. 
 
-+ **META SEARCH**:
+**META SEARCH**:
 - Storage results once a day on call, retrieve from my Database the results.
 - Find an effective way to organize different data formats into a universal one.
 
